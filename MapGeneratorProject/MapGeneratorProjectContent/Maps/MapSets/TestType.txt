@@ -1,0 +1,14 @@
+START
+MAP_TYPE_NAME
+test
+***
+BG_TYPE
+none
+***
+ROOM_TYPES
+rectangle
+***
+TILE_SETS
+test_tile_set_new
+***
+END

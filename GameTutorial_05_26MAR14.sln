@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTutorial_05_26MAR14", "GameTutorial_05_26MAR14\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14.csproj", "{560209E8-E0EA-4FEF-BA50-2DEC05FD250B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1BFD56FE-B0BD-42EC-A81E-AAEB5112B2E4} = {1BFD56FE-B0BD-42EC-A81E-AAEB5112B2E4}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTutorial_05_26MAR14Content", "GameTutorial_05_26MAR14\GameTutorial_05_26MAR14Content\GameTutorial_05_26MAR14Content.contentproj", "{EC947172-70FF-4A59-B5C9-FBE65A75C559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryProject", "LibraryProject\LibraryProject.csproj", "{650295E9-0A8C-4514-B94B-CFB0A2D18BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PipelineProject", "PipelineProject\PipelineProject.csproj", "{1BFD56FE-B0BD-42EC-A81E-AAEB5112B2E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapGeneratorProject", "MapGeneratorProject\MapGeneratorProject\MapGeneratorProject.csproj", "{16DAE1B3-9590-4118-9C07-92B7B59B0EA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapGeneratorProjectContent", "MapGeneratorProject\MapGeneratorProjectContent\MapGeneratorProjectContent.contentproj", "{0AAE8505-3DA3-407D-8281-83A11E46A763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{560209E8-E0EA-4FEF-BA50-2DEC05FD250B}.Debug|x86.ActiveCfg = Debug|x86
+		{560209E8-E0EA-4FEF-BA50-2DEC05FD250B}.Debug|x86.Build.0 = Debug|x86
+		{560209E8-E0EA-4FEF-BA50-2DEC05FD250B}.Release|x86.ActiveCfg = Release|x86
+		{560209E8-E0EA-4FEF-BA50-2DEC05FD250B}.Release|x86.Build.0 = Release|x86
+		{EC947172-70FF-4A59-B5C9-FBE65A75C559}.Debug|x86.ActiveCfg = Debug|x86
+		{EC947172-70FF-4A59-B5C9-FBE65A75C559}.Release|x86.ActiveCfg = Release|x86
+		{650295E9-0A8C-4514-B94B-CFB0A2D18BEC}.Debug|x86.ActiveCfg = Debug|x86
+		{650295E9-0A8C-4514-B94B-CFB0A2D18BEC}.Debug|x86.Build.0 = Debug|x86
+		{650295E9-0A8C-4514-B94B-CFB0A2D18BEC}.Release|x86.ActiveCfg = Release|x86
+		{650295E9-0A8C-4514-B94B-CFB0A2D18BEC}.Release|x86.Build.0 = Release|x86
+		{1BFD56FE-B0BD-42EC-A81E-AAEB5112B2E4}.Debug|x86.ActiveCfg = Debug|x86
+		{1BFD56FE-B0BD-42EC-A81E-AAEB5112B2E4}.Debug|x86.Build.0 = Debug|x86
+		{1BFD56FE-B0BD-42EC-A81E-AAEB5112B2E4}.Release|x86.ActiveCfg = Debug|x86
+		{1BFD56FE-B0BD-42EC-A81E-AAEB5112B2E4}.Release|x86.Build.0 = Debug|x86
+		{16DAE1B3-9590-4118-9C07-92B7B59B0EA3}.Debug|x86.ActiveCfg = Debug|x86
+		{16DAE1B3-9590-4118-9C07-92B7B59B0EA3}.Debug|x86.Build.0 = Debug|x86
+		{16DAE1B3-9590-4118-9C07-92B7B59B0EA3}.Release|x86.ActiveCfg = Release|x86
+		{16DAE1B3-9590-4118-9C07-92B7B59B0EA3}.Release|x86.Build.0 = Release|x86
+		{0AAE8505-3DA3-407D-8281-83A11E46A763}.Debug|x86.ActiveCfg = Debug|x86
+		{0AAE8505-3DA3-407D-8281-83A11E46A763}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

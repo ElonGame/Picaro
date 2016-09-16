@@ -1,0 +1,15 @@
+C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\MapGeneratorProject\MapGeneratorProject\obj\x86\Debug\MapGeneratorProject.csprojResolveAssemblyReference.cache
+C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\MapGeneratorProject\MapGeneratorProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\MapGeneratorProject\MapGeneratorProject\bin\x86\Debug\MapGeneratorProject.exe
+C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\MapGeneratorProject\MapGeneratorProject\bin\x86\Debug\MapGeneratorProject.pdb
+C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\MapGeneratorProject\MapGeneratorProject\bin\x86\Debug\LibraryProject.dll
+C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\MapGeneratorProject\MapGeneratorProject\bin\x86\Debug\LibraryProject.pdb
+C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\MapGeneratorProject\MapGeneratorProject\obj\x86\Debug\MapGeneratorProject.exe
+C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\MapGeneratorProject\MapGeneratorProject\obj\x86\Debug\MapGeneratorProject.pdb
+C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\MapGeneratorProject\MapGeneratorProject\bin\x86\Debug\Content\Maps\TileSets\testTileSetNew.txt
+C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\MapGeneratorProject\MapGeneratorProject\bin\x86\Debug\Content\normalmap.xnb
+C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\MapGeneratorProject\MapGeneratorProject\bin\x86\Debug\Content\Maps\MapSets\TestMapSet.txt
+C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\MapGeneratorProject\MapGeneratorProject\bin\x86\Debug\MapGeneratorProject.exe.manifest
+C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\MapGeneratorProject\MapGeneratorProject\bin\x86\Debug\MapGeneratorProject.application
+C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\MapGeneratorProject\MapGeneratorProject\obj\x86\Debug\MapGeneratorProject.exe.manifest
+C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\MapGeneratorProject\MapGeneratorProject\obj\x86\Debug\MapGeneratorProject.application

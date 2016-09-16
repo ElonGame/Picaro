@@ -1,0 +1,6 @@
+c:\users\jam\documents\visual studio 2010\Projects\GameTutorial_05_26MAR14\LibraryProject\bin\x86\Debug\LibraryProject.dll
+c:\users\jam\documents\visual studio 2010\Projects\GameTutorial_05_26MAR14\LibraryProject\bin\x86\Debug\LibraryProject.pdb
+c:\users\jam\documents\visual studio 2010\Projects\GameTutorial_05_26MAR14\LibraryProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\jam\documents\visual studio 2010\Projects\GameTutorial_05_26MAR14\LibraryProject\obj\x86\Debug\LibraryProject.dll
+c:\users\jam\documents\visual studio 2010\Projects\GameTutorial_05_26MAR14\LibraryProject\obj\x86\Debug\LibraryProject.pdb
+C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\LibraryProject\obj\x86\Debug\LibraryProject.csprojResolveAssemblyReference.cache

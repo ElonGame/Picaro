@@ -1,0 +1,37 @@
+﻿THINGS TO DO:
+1) Change MapGenerator so that a BG and FG Tile are added to the same MapSquare
+2) Remove extra stuff from MapSquare
+3) Add a check/optimize the "room adding" loop, so that it won't continuously try to add a rooms if
+	a) it is impossible to fit an area of that room-space into the map
+	b) the likelihood of fitting another room into the map is very small by randomly picking points to start adding a room
+4) Move the switch statement code in MapGenerator MakeRoom() to a separate function(s)?
+5) MapGenerator.MakeRectangularRoom() is pretty large and cumbersome right now... try to optimize code; perhaps breaking function into smaller, reusable functions
+	that several different room type making functions can reuse
+	Parts of MakeRectangularRoom to move to separate functions:
+	a) space check loop?
+	b) function that generates random width/height
+	c) function that adds currently being made "room" to List<List<List<Vector2>>> AreaMap.RoomSquaresList
+	d) more compact function for checking if MapSquare.mapSquareStates[0] is set to BLANKSTATE (right now it's in a loop check)
+	e) general function for changing MapSquare.mapSquareStates[] to different states
+	f) function for checking/adding TextureNames from the TileSet this room uses 
+		to MapEngine's List<string> currentMapTexturesNames (passed by ref as parameter of same name)
+		and MapEngine's AreaMap currentMap.TextureNameList (passed by ref as parameter AreaMap new_map);
+		*this function should add the index of the just added TileSet.TextureName to the current MapSquare
+		in loop
+	g) current method of added Animated titles is very cumbersome, make into separate function
+	h) function that changes current MapSquare.textureName and MapSquare.(FG/BG)SourceRect
+	i) **function/logic for determining which source rect in currently chosen TileSet to use
+	j) ROOM vs PERIMETER check/if-else statement
+	k) add animated tiles for PERIMETER mapSquares
+	l) add function for checking MapSquare's state index... don't want to reference an index not there
+
+THINGS I DID:
+04APR14: (AreaMap.cs) added function to check a MapSquare flag in mapSquareStates for a particular flag/state
+	public bool CheckMapSquareState(MapSquare map_square, int checked_index, MapSquareFlags checked_state) : just checks at specific index
+	public bool CheckMapSquareState(MapSquare map_square, MapSquareFlags checked_state) : loops through entire MapSquare.MapSquareStates[]
+24MAY14: Did alot of stuff, will update later. Added "Ideas" section.
+
+IDEAS/TODO (24MAY14):
+	> Add lighting?
+	> altitude algorithim
+	>

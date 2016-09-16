@@ -1,0 +1,3 @@
+Content\normalmap.xnb
+Content\Maps\TileSets\testTileSetNew.txt
+Content\Maps\MapSets\TestMapSet.txt

@@ -1,0 +1,7 @@
+c:\users\jam\documents\visual studio 2010\Projects\GameTutorial_05_26MAR14\PipelineProject\bin\x86\Debug\PipelineProject.dll
+c:\users\jam\documents\visual studio 2010\Projects\GameTutorial_05_26MAR14\PipelineProject\bin\x86\Debug\PipelineProject.pdb
+c:\users\jam\documents\visual studio 2010\Projects\GameTutorial_05_26MAR14\PipelineProject\bin\x86\Debug\LibraryProject.dll
+c:\users\jam\documents\visual studio 2010\Projects\GameTutorial_05_26MAR14\PipelineProject\bin\x86\Debug\LibraryProject.pdb
+c:\users\jam\documents\visual studio 2010\Projects\GameTutorial_05_26MAR14\PipelineProject\obj\x86\Debug\PipelineProject.csprojResolveAssemblyReference.cache
+c:\users\jam\documents\visual studio 2010\Projects\GameTutorial_05_26MAR14\PipelineProject\obj\x86\Debug\PipelineProject.dll
+c:\users\jam\documents\visual studio 2010\Projects\GameTutorial_05_26MAR14\PipelineProject\obj\x86\Debug\PipelineProject.pdb

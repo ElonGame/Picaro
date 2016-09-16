@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>MapTextures\blankBG.png</Source>
+      <Name>MapTextures\blankBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14\bin\x86\Debug\Content\MapTextures\blankBG.xnb</Output>
+      <Time>2014-03-29T17:10:03.1776614-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MapTextures\testTileSet.png</Source>
+      <Name>MapTextures\testTileSet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14\bin\x86\Debug\Content\MapTextures\testTileSet.xnb</Output>
+      <Time>2014-03-27T22:25:40.8246421-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\temp_font_v3.bmp</Source>
+      <Name>Fonts\temp_font_v3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14\bin\x86\Debug\Content\Fonts\temp_font_v3.xnb</Output>
+      <Time>2014-03-27T22:26:06.3915417-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\HUD_game_screen_temp.png</Source>
+      <Name>Misc\HUD_game_screen_temp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14\bin\x86\Debug\Content\Misc\HUD_game_screen_temp.xnb</Output>
+      <Time>2014-03-29T17:00:57.9046064-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MapTextures\newTestSet.png</Source>
+      <Name>MapTextures\newTestSet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14\bin\x86\Debug\Content\MapTextures\newTestSet.xnb</Output>
+      <Time>2014-05-14T11:30:39.09779-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MapTextures\newTestSet2.png</Source>
+      <Name>MapTextures\newTestSet2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14\bin\x86\Debug\Content\MapTextures\newTestSet2.xnb</Output>
+      <Time>2014-05-24T21:24:37.3862002-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\PlayerSprites\PlayerSprites.png</Source>
+      <Name>Sprites\PlayerSprites\PlayerSprites</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14\bin\x86\Debug\Content\Sprites\PlayerSprites\PlayerSprites.xnb</Output>
+      <Time>2014-05-29T21:38:06.9721973-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MapTextures\shadow_masks.png</Source>
+      <Name>MapTextures\shadow_masks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14\bin\x86\Debug\Content\MapTextures\shadow_masks.xnb</Output>
+      <Time>2014-07-01T23:21:48.6026021-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14\GameTutorial_05_26MAR14\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\JAM\Documents\Visual Studio 2010\Projects\GameTutorial_05_26MAR14\PipelineProject\bin\x86\Debug\PipelineProject.dll</Key>
+        <Value>2014-07-12T02:55:05.0470141-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-12-23T11:44:10.7526857-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
